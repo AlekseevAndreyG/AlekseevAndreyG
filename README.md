@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alekseev Andrey
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript css5 git repository
+- 🌱 I’m currently learning javascript, css5 and git repository
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
